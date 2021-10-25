@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\CODES\C++ Projects\LAB10\Project1\stacktype.cpp(36,20): warning C4101: 'exception': unreferenced local variable
+D:\CODES\C++ Projects\LAB10\Project1\stacktype.cpp(28): message : while compiling class template member function 'bool StackType<char>::IsFull(void)'
+D:\CODES\C++ Projects\LAB10\Project1\stacktype.cpp(45): message : see reference to function template instantiation 'bool StackType<char>::IsFull(void)' being compiled
+D:\CODES\C++ Projects\LAB10\Project1\stacktype.cpp(7): message : while compiling class template member function 'StackType<char>::StackType(void)'
+D:\CODES\C++ Projects\LAB10\Project1\main.cpp(38): message : see reference to function template instantiation 'StackType<char>::StackType(void)' being compiled
+D:\CODES\C++ Projects\LAB10\Project1\main.cpp(38): message : see reference to class template instantiation 'StackType<char>' being compiled
+  stacktype.cpp
+  Generating Code...
+  Project1.vcxproj -> D:\CODES\C++ Projects\LAB10\x64\Debug\Project1.exe

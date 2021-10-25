@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\CODES\C++ Projects\Project11\Project11\main.cpp(30,15): error C2131: expression did not evaluate to a constant
+D:\CODES\C++ Projects\Project11\Project11\main.cpp(30,15): message : failure was caused by a read of a variable outside its lifetime
+D:\CODES\C++ Projects\Project11\Project11\main.cpp(30,15): message : see usage of 'n'
+D:\CODES\C++ Projects\Project11\Project11\main.cpp(33,13): warning C4552: '>>': result of expression not used
+  quetype.cpp
+  Generating Code...

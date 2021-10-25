@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\CODES\C++ Projects\StackLab\StackLab\main.cpp(89,23): warning C4018: '<': signed/unsigned mismatch
+  StackLab.vcxproj -> D:\CODES\C++ Projects\StackLab\Debug\StackLab.exe

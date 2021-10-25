@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\CODES\C++ Projects\Lab-04\Lab-04\main.cpp(96,7): warning C4101: 'found': unreferenced local variable
+D:\CODES\C++ Projects\Lab-04\Lab-04\main.cpp(95,6): warning C4101: 'retrieve': unreferenced local variable
+  Lab-04.vcxproj -> D:\CODES\C++ Projects\Lab-04\Debug\Lab-04.exe
